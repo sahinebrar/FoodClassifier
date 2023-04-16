@@ -1,7 +1,7 @@
 # FoodClassifier
 
 - This project is about classifying food images.
-- Used Deep Learning Models: VGG16,ResNet50, CNN
+- Used Deep Learning Models: VGG16,ResNet50, CNN, Inception
 
 
 <h3 align="left">Languages</h3>
